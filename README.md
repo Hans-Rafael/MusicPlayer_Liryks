@@ -1,5 +1,7 @@
 # Built and Deployed Music App kind of spotify with React (Tailwind, Shazam, Redux)-(Full Front-End)
-![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
+<br>
+<img align="center"  alt="pole_empty" src="./src/assets/LYRIKS.png" />
+
 ## For use only:
 # only do npm run Dev
 # and go to the link deployed on screen
