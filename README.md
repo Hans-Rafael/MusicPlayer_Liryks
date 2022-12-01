@@ -1,4 +1,10 @@
-# Build and Deploy a Better Spotify 2.0 Clone Music App with React 18! (Tailwind, Shazam, Redux)
+# Built and Deployed Music App kind of spotify with React (Tailwind, Shazam, Redux)-(Full Front-End)
 ![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
+## For use only:
+# only do npm run Dev
+# and go to the link deployed on screen
+# Or easier
+# the page is allready deployed at:
+# https://lyriks-music-player-app.netlify.app/ 
+## and you do not need to install any thing!
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
